@@ -1,0 +1,26 @@
+=unit ideas=
+
+-wall units
+	+they move very slow
+	+block other units from moving through
+	+can be garrisoned by other units, prevents them from moving but they gain lots of defense and range
+	+can be "de-garrisoned" to gain the original unit back
+-fire squads
+	+effective at destroying wooden object, ie: walls
+	+can be archers or soldiers with torches
+-cavalry
+	+top tier mobility
+	+strong anti-soldier
+	+weak to spear and archer units
+-construction crews
+	+destroy/build objects, ie: build wooden walls or destroy rock
+-mountain top encampments
+	+units can garrison this unit and can ranged attack, units cannot melee this unit
+	
+	
+=maps ideas=
+
+-terrain
+	+objects in terrain to create unique combat engagements, ie: funnels
+	+terrain bonuses, ie: units in forrested areas get ranged/cavalry defense bonuses
+	
